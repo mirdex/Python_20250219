@@ -16,3 +16,4 @@
 - [3. 流程控制](http://mirdex.github.io/Python_20250219/3.%20流程控制(Q).slides.html)
 - [4. 資料結構](http://mirdex.github.io/Python_20250219/4.%20資料結構_Q.slides.html)
 - [5. 迴圈](http://mirdex.github.io/Python_20250219/5.%20迴圈_Q.slides.html)
+- [6. 再談資料結構](http://mirdex.github.io/Python_20250219/6.%20再談資料結構_Q.slides.html)
