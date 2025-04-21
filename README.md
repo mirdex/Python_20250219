@@ -18,4 +18,3 @@
 - [5. 迴圈](http://mirdex.github.io/Python_20250219/5.%20迴圈_Q.slides.html)
 - [6. 再談資料結構](http://mirdex.github.io/Python_20250219/6.%20再談資料結構_Q.slides.html)
 - [7. 函數](http://mirdex.github.io/Python_20250219/7.%20函數_Q.slides.html)
-- [8. 類別](http://mirdex.github.io/Python_20250219/8.%20類別_Q.slides.html)
