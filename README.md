@@ -22,3 +22,4 @@
 - [9. 例外處理](http://mirdex.github.io/Python_20250219/9.%20例外處理.slides.html)
 - [10. 總複習一_Comprehension](http://mirdex.github.io/Python_20250219/10.%20總複習一_Comprehension_Q.slides.html)
 - [11. 總複習二_module develop](http://mirdex.github.io/Python_20250219/11.%20總複習二_模組開發_Q.slides.html)
+- [12. 檔案處理](http://mirdex.github.io/Python_20250219/12.%20檔案處理_Q.slides.html)
